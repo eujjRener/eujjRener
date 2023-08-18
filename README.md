@@ -17,4 +17,4 @@ I'm still in search of knowledge, but I master well JS, CSS and PHP. I've been i
 
 
 
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=eujjRenerg&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=eujjRener&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
