@@ -13,8 +13,8 @@ I'm still in search of knowledge, but I master well JS, CSS and PHP. I've been i
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/johnponciano/) 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=lauragrassig&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lauragrassig&theme=neon&hide_border=false"  width="400px" />
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=eujjRener&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eujjRener&theme=neon&hide_border=false"  width="400px" />
 
 
 
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=lauragrassig&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=eujjjRenerg&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
